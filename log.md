@@ -3,9 +3,9 @@
 // Week 1
 
 ### Day 1: Monday - April 01, 2019
-**Today's Progress**:
-**Thoughts:** 
-**Link to work:**
+**Today's Progress**: reran through JS es6
+**Thoughts:** was a good refresher.
+**Link to work:** https://codepen.io/darkxangel84/pen/pBvKXZ
 
 ### Day 2: Tuesday - April 02, 2019
 **Today's Progress**:
