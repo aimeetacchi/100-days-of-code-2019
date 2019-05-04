@@ -51,106 +51,98 @@
 **Link to work:** https://codepen.io/darkxangel84/pen/OGWoYN
 
 ### Day 10: Wed - April 10, 2019
-**Today's Progress**: 
-**Thoughts:**  
-**Link to work:**
+**Today's Progress**: I was playing around with a layout I might be using in the future..I really don't feel good this evening so hardly done much at all. 
+**Thoughts:**  #keepmotivated💪 #motivation #frontend 
+**Link to work:** https://www.instagram.com/p/BwFvIa_h8cy/?igshid=m2s6ad4wygrk
 
-### Day 11: Thurs - April 11, 2019
-**Today's Progress**: 
-**Thoughts:**  
-**Link to work:**
+out of action for 11- 12 April ---- ill
 
-### Day 12: Fri - April 12, 2019
-**Today's Progress**: 
+### Day 11 & 12: Thurs/Fri - April 13 - 14 2019
+**Today's Progress**:I've been out of action for the past 2 days, felt really shit had some virus 🤒 feeling bit better today. Ive been doing some bits for a few hours today so let's say Day 11 and 12 of #100DaysOfCode - recommended by my good buddie @stefantrinh to watch how to make a react app without Create #React app, using #webpack very interesting. There is a great video by @traversymedia on YouTube for it.
+Also I've put one of my old #Angular apps on #netlify, it was a little shopping app it doesn't really do anything u can add and remove products. It gives u a total... But I built it while I was learning Angular last year. Thanks @stefantrinh for filming and playing on it. :)
 **Thoughts:**  
-**Link to work:**
+**Link to work:** https://www.instagram.com/p/BwNhGwABK0D/?igshid=1xx4jpjv7ctpa
 
-### Day 13: Sat - April 13, 2019
-**Today's Progress**: 
-**Thoughts:**  
-**Link to work:**
+// Flying to Greece for Easter ----- didn't do any code form 15 - 28 April
 
-### Day 14: Sun - April 14, 2019
-**Today's Progress**: 
-**Thoughts:**  
-**Link to work:**
+
 
 ### WEEK 3 ###
 
-### Day 15: Monday - April 15, 2019
-**Today's Progress**:
-**Thoughts:** 
-**Link to work:**
-
-### Day 16: Tuesday - April 16, 2019
-**Today's Progress**:
+### Day 13: Mon - April 29, 2019
+**Today's Progress**: Back to react I've gone bk to my todo app to add some extra functionality to it. You can now check off items completed. I'm busy now trying go do an edit.
 **Thoughts:**  
+**Link to work:** https://www.instagram.com/p/Bw2rkJFBm9U/
+
+### Day 14: Tue - April 30, 2019
+**Today's Progress**: Carried on with my todo app. Have localstorage working now, but still struggling with the update function... Need to work out how to update the state from editing.. 
+**Thoughts:**  #frontendwebdeveloper #femaledeveloper #girlwebdeveloper #girlswhocode #react
+**Link to work:** https://www.instagram.com/p/Bw5YJ6VhnLo/
+
+### Day 15: Wed - May 1, 2019
+**Today's Progress**: I'm still fighting with trying to do this update todo. I think my state is all wrong.. Idk.. My state is an array and when u add a new todo it adds a new object to the array that has an item, id, completed, editing... So how do I go about editing the text of the clicked item.. Then updating the objects item in the state.. Hmmm any help would be appreciated. 
+**Thoughts:** #frontenddeveloper #girlscodetoo #reactjs #javascript #codinglife #webdeveloper #code
+**Link to work:** https://www.instagram.com/p/Bw74fa0hSwx/
+
+### Day 16: Thurs - May 2, 2019
+**Today's Progress**: so close to finishing this, edit all works now, but delete has buggered up. Will finish this off tomorrow 
+**Thoughts:**  #react #reactjob #frontendwebdeveloper #girlscodetoo💁
+**Link to work:** https://www.instagram.com/p/Bw-e-OMhgaY/
+
+### Day 17: Frid - May 3, 2019
+**Today's Progress**: Day 17 of #100DaysOfCode So I've finally finished my #React todo. It's all local with local storage but fully functional like a Crud app. :) I might add some more features to it at a later date.
+**Thoughts:**   #frontenddeveloper #girlscodetoo #reactjs #javascript #codinglife 💻 🇬🇧 ⌨️ 🖱️ 🎉 
+**Link to work:** https://www.instagram.com/p/BxA54bbBHsL/
+
+### Day 17: Sat - May 4, 2019
+**Today's Progress**: Day 18 of #100DaysOfCode
+**Thoughts:**   
 **Link to work:**
 
-### Day 17: Wed - April 17, 2019
-**Today's Progress**: 
-**Thoughts:**  
+### Day 18: Sun - May 5, 2019
+**Today's Progress**: Day 19 of #100DaysOfCode
+**Thoughts:**   
 **Link to work:**
 
-// Flying to Greece for Easter -----
-
-### Day 18: Thurs - April 18, 2019
-**Today's Progress**: 
-**Thoughts:**  
-**Link to work:**
-
-### Day 19: Fri - April 19, 2019
-**Today's Progress**: 
-**Thoughts:**  
-**Link to work:**
-
-### Day 20: Sat - April 20, 2019
-**Today's Progress**: 
-**Thoughts:**  
-**Link to work:**
-
-### Day 21: Sun - April 21, 2019
-**Today's Progress**: 
-**Thoughts:**  
-**Link to work:**
 
 
 ### WEEK 4 ###
 
-### Day 22: Monday - April 22, 2019
-**Today's Progress**:
+### Day 19: Mon - May 6, 2019
+**Today's Progress**: Day 20 of #100DaysOfCode
+**Thoughts:**   
+**Link to work:**
+
+### Day 20: Tue - May 7, 2019
+**Today's Progress**:  
+**Thoughts:**  
+**Link to work:** 
+
+### Day 21: Wed - May 8, 2019
+**Today's Progress**: 
 **Thoughts:** 
-**Link to work:**
+**Link to work:** 
 
-### Day 23: Tuesday - April 23, 2019
-**Today's Progress**:
-**Thoughts:**  
-**Link to work:**
-
-// Return from Greece ==== 
-
-### Day 24: Wed - April 24, 2019
+### Day 22: Thurs - May 9, 2019
 **Today's Progress**: 
 **Thoughts:**  
 **Link to work:**
 
-### Day 25: Thurs - April 25, 2019
+### Day 23: Frid - May 10, 2019
 **Today's Progress**: 
-**Thoughts:**  
+**Thoughts:**   
+**Link to work:** 
+
+### Day 24: Sat - May 11, 2019
+**Today's Progress**: Day 18 of #100DaysOfCode
+**Thoughts:**   
 **Link to work:**
 
-### Day 26: Fri - April 26, 2019
-**Today's Progress**: 
-**Thoughts:**  
+### Day 25: Sun - May 12, 2019
+**Today's Progress**: Day 19 of #100DaysOfCode
+**Thoughts:**   
 **Link to work:**
 
-### Day 27: Sat - April 27, 2019
-**Today's Progress**: 
-**Thoughts:**  
-**Link to work:**
 
-### Day 28: Sun - April 28, 2019
-**Today's Progress**: 
-**Thoughts:**  
-**Link to work:**
+
 
